@@ -21,8 +21,30 @@
   <img height="20" src="https://img.shields.io/badge/Office365-blue?style=flat&logo=microsoftoffice" />
 </p>
 
+## 👋 Hi, I'm Kevin 👋
+
+🎓 Ph.D. candidate at Kyoto Institute of Technology, Japan  
+🔬 Focused on time series forecasting, anomaly detection, and hybrid models  
+🧠 Interested in deep learning, signal decomposition, and interpretable AI  
+
+## 💼 Open to Opportunities
+
+Currently seeking **full-time or research-related positions**.
+
+**🎯 Target Roles:**  
+- AI Researcher / Machine Learning Engineer / Applied Scientist  
+- Research Assistant or Postdoc (Time Series, Forecasting, Anomaly Detection)
+
+**🌍 Open to:** 
+-  Asia / and anywhere for the right opportunity
+
+**📬 Contact:**  
+-  [Click here to contact me](https://github.com/nanfzq0087/nanfzq0087/issues)
+
+
+## 📚 Publications ## 
 <details>
-<summary>📚 Selected Publications (Click to expand)</summary>
+<summary> Click to expand my publications </summary>
 
 - **[Under Review] Transformer-based Model for Time Series Analysis**  
   _Submitted to a major ML conference, 2025_
@@ -41,5 +63,21 @@
 - **Foreign Exchange Rate Forecast by a Large Language Model Integrated with Trend Description**  
   *K. Peng, H. Iima*  
   _11th Int’l Conf. on Soft Computing & Machine Intelligence_, 2024
-
 </details>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nanfzq0087&show_icons=true&theme=default" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanfzq0087&layout=compact" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=nanfzq0087" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nanfzq0087&theme=flat&margin-w=10" />
+</p>
+
+
