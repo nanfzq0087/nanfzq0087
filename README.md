@@ -27,7 +27,7 @@
 - **[Under Review] Transformer-based Model for Time Series Analysis**  
   _Submitted to a major ML conference, 2025_
   
-- **[Under Review] Dual-path Attention Framework for Time Series**
+- **[Under Review] Dual-path Attention Framework for Time Series**  
   _Submitted to a major ML conference, 2025_
   
 - **Predicting FX Market Movements Using GAN with Limit Order Event Data**  
