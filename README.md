@@ -24,7 +24,7 @@
 ## 👋 Hi, I'm Kevin 👋
 
 🎓 Education: Ph.D. candidate at Kyoto Institute of Technology, Japan  
-🔬 Research Focus: Time series forecasting, anomaly detection, and hybrid models  
+🔬 Research Focus: Time series forecasting, anomaly detection, Deep learning. 
 🌐 Languages: Native Chinese, fluent Japanese (JLPT N1), fluent English (academic reading & writing)  
 😊 Interests: Fishing  
 
