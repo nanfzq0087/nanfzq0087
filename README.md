@@ -58,6 +58,10 @@ Currently seeking **full-time or research-related positions**.
   *K. Peng, H. Iima, Y. Kitamura*  
   _Finance Research Letters_, Vol.72, 2025, 106527
   
+- **STL-Transformer: A Hybrid Model for Financial Time Series Forecasting**  
+  *K. Peng, H. Iima*  
+  _International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence_, 2024
+
 - **Prediction of Foreign Exchange Rates by a Large Language Model**  
   *K. Peng, H. Iima, Y. Kitamura*  
   _SICE Festival with Annual Conference (SICE FES)_, 2024, pp.1062–1066
@@ -65,6 +69,8 @@ Currently seeking **full-time or research-related positions**.
 - **Foreign Exchange Rate Forecast by a Large Language Model Integrated with Trend Description**  
   *K. Peng, H. Iima*  
   _11th Int’l Conf. on Soft Computing & Machine Intelligence_, 2024
+
+
 </details>
 
 ## 📊 GitHub Stats
