@@ -80,10 +80,4 @@ Currently seeking **full-time or research-related positions**.
 </details>
 
 
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nanfzq0087&theme=flat&margin-w=10" />
-</p>
-
 
