@@ -79,15 +79,7 @@ Currently seeking **full-time or research-related positions**.
 
 </details>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nanfzq0087&show_icons=true&theme=default" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanfzq0087&layout=compact" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=nanfzq0087" />
 </p>
 
 <p align="center">
