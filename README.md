@@ -57,8 +57,9 @@ Currently seeking **full-time or research-related positions**.
 - **[Under Review] Transformer-based Model for Time Series Analysis**  
   _Submitted to a major ML conference, 2025_
   
-- **[Under Review] Dual-path Attention Framework for Time Series**  
-  _Submitted to a major ML conference, 2025_
+- **BiScaleFormer: Modeling Trend and Seasonality with Multi-Scale Attention for Time Series Forecasting**  
+  *K. Peng, H. Iima
+  _International Conference on Agents and Artificial Intelligence_, 2025
   
 - **Predicting FX Market Movements Using GAN with Limit Order Event Data**  
   *K. Peng, H. Iima, Y. Kitamura*  
