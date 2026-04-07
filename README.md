@@ -59,7 +59,7 @@ Currently seeking **full-time or research-related positions**.
   
 - **BiScaleFormer: Modeling Trend and Seasonality with Multi-Scale Attention for Time Series Forecasting**  
   *K. Peng, H. Iima*  
-  _International Conference on Agents and Artificial Intelligence_, 2025
+  _International Conference on Agents and Artificial Intelligence_, 2025. (high quality paper selected for post publication).
   
 - **Predicting FX Market Movements Using GAN with Limit Order Event Data**  
   *K. Peng, H. Iima, Y. Kitamura*  
