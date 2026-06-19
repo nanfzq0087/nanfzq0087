@@ -41,7 +41,7 @@ Currently seeking **full-time or research-related positions**.
 -  Asia / and anywhere for the right opportunity
 
 **📬 Contact:**  
--  233757182@qq.com
+-  📧 Contact: pkx19971016 [at] gmail [dot] com
 
 
 ## 📚 Publications ## 
