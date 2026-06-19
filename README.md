@@ -1,6 +1,6 @@
 <p align="left">
   <!-- 论文数 -->
-  <img height="20" src="https://img.shields.io/badge/Publication-5-4c8cbf?style=flat&logo=academia" />
+  <img height="20" src="https://img.shields.io/badge/Publication-6-4c8cbf?style=flat&logo=academia" />
   
   <!-- 编程语言 -->
   <img height="20" src="https://img.shields.io/badge/Python-gray?style=flat&logo=python" />
@@ -54,17 +54,18 @@ Currently seeking **full-time or research-related positions**.
 - **[Under Review] AutoEncoder/MemoryBank-based Model for Time Series anomaly detection**  
   _Submitted to a major ML conference, 2025_
 
-- **[Under Review] Transformer-based Model for Time Series Analysis**  
-  _Submitted to a major ML conference, 2025_
-  
-- **BiScaleFormer: Modeling Trend and Seasonality with Multi-Scale Attention for Time Series Forecasting**  
+- **MagniFormer: A magnitude-guided slope mask attention transformer for time series movement prediction**  
   *K. Peng, H. Iima*  
-  _International Conference on Agents and Artificial Intelligence_, 2025. (high quality paper selected for post publication).
+  _Neurocomputing_, Volume 697, 7 October 2026, 134137 (Impact Factor:6.3).
   
 - **Predicting FX Market Movements Using GAN with Limit Order Event Data**  
   *K. Peng, H. Iima, Y. Kitamura*  
-  _Finance Research Letters_, Vol.72, 2025, 106527
-  
+  _Finance Research Letters_, Vol.72, 2025, 106527 (Impact Factor:7.1).
+
+ - **BiScaleFormer: Modeling Trend and Seasonality with Multi-Scale Attention for Time Series Forecasting**  
+*K. Peng, H. Iima*  
+_International Conference on Agents and Artificial Intelligence_, 2025. (high quality paper selected for post publication).
+
 - **STL-Transformer: A Hybrid Model for Financial Time Series Forecasting**  
   *K. Peng, H. Iima*  
   _International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence_, 2024
