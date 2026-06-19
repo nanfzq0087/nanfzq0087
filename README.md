@@ -49,7 +49,10 @@ Currently seeking **full-time or research-related positions**.
 <summary> Click to expand my publications </summary>
 
 - **[Under Review] Causal inference based model for FX Forecasting**  
-  _Submitted to a major Finance Article, 2025_
+  _Submitted to a major Finance Article, 2026_
+
+- **[Under Review] BiscaleFormer based model for time series forecasting**  
+  _Submitted to a major Finance Article, 2026_
 
 - **[Under Review] AutoEncoder/MemoryBank-based Model for Time Series anomaly detection**  
   _Submitted to a major ML conference, 2025_
