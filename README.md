@@ -41,7 +41,7 @@ Currently seeking **full-time or research-related positions**.
 -  Asia / and anywhere for the right opportunity
 
 **📬 Contact:**  
--  [Click here to contact me](https://github.com/nanfzq0087/nanfzq0087/issues)
+-  233757182@qq.com
 
 
 ## 📚 Publications ## 
